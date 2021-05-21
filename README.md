@@ -8,5 +8,4 @@ This repository contains the solutions for the Python companion course in Financ
   - Value-at-Risk Modelling.
 
 ### Dependencies
-This part of the course relies heavily in functionalities from the ARCH toolbox. 
-[arch](https://arch.readthedocs.io/en/latest/index.html)
+This part of the course relies heavily in functionalities from the [arch](https://arch.readthedocs.io/en/latest/index.html) toolbox. 
