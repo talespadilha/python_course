@@ -1,7 +1,7 @@
 # MFE Python Companion Course
 [![](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png)](https://www.kevinsheppard.com/teaching/python/)
 
-This repository contains the solutions for the Python companion course in Financial Econometrics. All scrips are in the notebook (ipynb) format presented in class. These scrips are divided into four sections:
+This repository contains the solutions for the Python companion course in Financial Econometrics. All scrips are in the notebook (ipynb) format presented in class. These notebooks are divided into four sections:
 
   - Time Series Modelling;
   - Volatility Modelling;
